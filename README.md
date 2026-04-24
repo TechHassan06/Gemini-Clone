@@ -10,7 +10,8 @@ A fully responsive, modern web application that perfectly replicates the Google 
 - **Persistent Recent Chats:** Just like the real application, your prompt history is automatically tracked and persisted natively in your browser's `localStorage`.
 - **Markdown Text Formatting:** Custom regex engine parsing out asterisks into correctly styled bold words and preserved bullet-point paragraph blocks for readable responses.
 - **Dynamic Preloaders:** Displays the classic Google shimmering skeleton bars alongside a subtle rotating Gemini icon when the API is actively processing requests.
-
+## ✨ Live Link
+https://my-gemini-clone-2026.netlify.app/
 ## 🛠️ Technology Stack
 
 - **Frontend Framework:** React 19 + Vite
