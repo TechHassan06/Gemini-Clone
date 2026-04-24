@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ♊ Gemini API Clone
 
 A fully responsive, modern web application that perfectly replicates the Google Gemini UI. Built with React and Vite, this clone securely connects to Google's official Generative AI API (`gemini-2.5-flash`) to provide real-time, AI-driven chat capabilities.
@@ -60,4 +59,3 @@ This project is open source and available under the [MIT License](LICENSE).
 =======
 # Gemini-Clone
  A modern Google Gemini clone built with React! 🚀 Features the official Gemini API, real-time markdown chat ✍️, persistent local storage 💾, responsive design 📱, and beautiful skeleton loaders ✨.
->>>>>>> 4d5fbbb3bd940a9fdfc66427b6717e290b6f762c
